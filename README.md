@@ -87,5 +87,4 @@ Fecha
 
 DARWIN ORQUERA
 
-[Tu nombre aquí]
 Asignatura: Lógica de Programación
